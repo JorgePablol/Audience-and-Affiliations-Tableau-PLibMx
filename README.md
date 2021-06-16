@@ -15,7 +15,7 @@ All of the results are explicitly written in the presentation. The orange color 
 *  **Our best states outside the Mexico's center are industrial states so in the future those will be our levers to grow.**
 ![conclusiones](https://user-images.githubusercontent.com/58957744/122263587-39826900-ce9c-11eb-97d3-cf1238688e88.png)
 
-Some other visualizations with insights in orange color.
+**Some other visualizations with insights in orange color.**
 
 ![afiliados](https://user-images.githubusercontent.com/58957744/122263790-7189ac00-ce9c-11eb-837b-35f42d2fe109.png)
 
