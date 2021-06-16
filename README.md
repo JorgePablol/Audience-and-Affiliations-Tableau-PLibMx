@@ -1,7 +1,6 @@
-# Audience and Affiliations with Tableau
-
-# [Partido Libertario Mx Social Networks Analysis](#Table-Of-Contents)
+# [Audience and Affiliations with Tableau](#Table-Of-Contents)
 I made an analysis for the audience and affiliations of the Partido Libertario Mx. Some of the insights are clearly explained in the conclusions page.
+** Watch the entire visualization online [here](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
 
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
@@ -11,10 +10,7 @@ You can start by reading the results or go directly to the [table of contents](#
 
 # Table Of Contents
 
-* [Abstract](#Partido-Libertario-Mx-Social-Networks-Analysis)
 * [Results](#Results)
-  *  [Twitter Report February 2021](#Twitter-Report-February-2021)
-  *  [Facebook Report February 2021](#Facebook-Report-February-2021)
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
 
