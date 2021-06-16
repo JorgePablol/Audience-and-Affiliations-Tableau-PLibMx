@@ -5,6 +5,22 @@ I made an analysis for the audience and affiliations of the Partido Libertario M
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
 # [Results](#Table-Of-Contents)
+All of the results are explicitly written in the presentation. The orange color means that those are the conclusions.
+**TRANSLATION**
+*  **Mexico's center: Mexico city, Mexico's State, Hidalgo, Queretaro, Guanajuato, will be the cradle of libertarianism in Mexico.**
+*  **We need more female audience, the proportion of males is too high, so it is a must to propose actions congruent with female audiences, liberal feminism is one of those.**
+*  **The events with libertarian public figures are the best we can hold, they attract many people, so we must do two things, try to hold more events with them and develop our own intern personal brands on libertarianism.**
+*  **To take our internal personal brands to make content for us.**
+*  **Our best states outside the Mexico's center are industrial states so in the future those will be our levers to grow.**
+![conclusiones](https://user-images.githubusercontent.com/58957744/122263587-39826900-ce9c-11eb-97d3-cf1238688e88.png)
+
+Some other visualizations with insights in orange color.
+
+![afiliados](https://user-images.githubusercontent.com/58957744/122263790-7189ac00-ce9c-11eb-837b-35f42d2fe109.png)
+
+
+![afiliadosplus](https://user-images.githubusercontent.com/58957744/122263800-72bad900-ce9c-11eb-9473-d4176bc9c7f9.png)
+
 
 
 
