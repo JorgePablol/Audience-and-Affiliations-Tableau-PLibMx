@@ -8,7 +8,7 @@ You can start by reading the results or go directly to the [table of contents](#
 All of the results are explicitly written in the presentation. The orange color means that those are the conclusions.
 
 **TRANSLATION**
-*  **Mexico's center: Mexico city, Mexico's State, Hidalgo, Queretaro, Guanajuato, will be the cradle of libertarianism in Mexico.**
+*  **Mexico's center: Mexico city, Mexico's State, Hidalgo, Queretaro, Guanajuato, will be the cradle of libertarianism in Mexico. We must start to hold public events and grouping our affiliates there to grow the affiliates on each state and start to formalize the organization.**
 *  **We need more female audience, the proportion of males is too high, so it is a must to propose actions congruent with female audiences, liberal feminism is one of those.**
 *  **The events with libertarian public figures are the best we can hold, they attract many people, so we must do two things, try to hold more events with them and develop our own intern personal brands on libertarianism.**
 *  **To take our internal personal brands to make content for us.**
