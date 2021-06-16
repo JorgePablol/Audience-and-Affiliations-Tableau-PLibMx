@@ -57,6 +57,9 @@ The wrangling was done on the master file I use to clean their data, the title y
 
 ![Screenshot from 2021-06-16 11-34-30](https://user-images.githubusercontent.com/58957744/122258887-3042cd80-ce97-11eb-8cb2-d5d60e81d7b9.png)
 
+**Deleting affiliates from other countries than Mexico, skipping some lines of codes for Baja California and saving the file**
+
+![asd](https://user-images.githubusercontent.com/58957744/122266465-71d77680-ce9f-11eb-8dac-cee84cec9c3b.png)
 
 
 
