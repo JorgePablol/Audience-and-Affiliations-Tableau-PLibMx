@@ -28,6 +28,7 @@ All of the results are explicitly written in the presentation. The orange color 
 
 # Table Of Contents
 
+* [Audience and Affiliations with Tableau](#Audience-and-Affiliations-with-Tableau)
 * [Results](#Results)
 * [Tools And Libraries](#Tools-And-Libraries)
 * [Data Wrangling](#Data-Wrangling)
