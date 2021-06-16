@@ -6,6 +6,7 @@ You can start by reading the results or go directly to the [table of contents](#
 
 # [Results](#Table-Of-Contents)
 All of the results are explicitly written in the presentation. The orange color means that those are the conclusions.
+
 **TRANSLATION**
 *  **Mexico's center: Mexico city, Mexico's State, Hidalgo, Queretaro, Guanajuato, will be the cradle of libertarianism in Mexico.**
 *  **We need more female audience, the proportion of males is too high, so it is a must to propose actions congruent with female audiences, liberal feminism is one of those.**
@@ -18,10 +19,11 @@ Some other visualizations with insights in orange color.
 
 ![afiliados](https://user-images.githubusercontent.com/58957744/122263790-7189ac00-ce9c-11eb-837b-35f42d2fe109.png)
 
-
+**The events when we had the most affiliates were months that match good reach on facebook like Gloria and Milei on February 2021**
 ![afiliadosplus](https://user-images.githubusercontent.com/58957744/122263800-72bad900-ce9c-11eb-9473-d4176bc9c7f9.png)
 
-
+**The actual facebook audience is dominated by male 77.7%, our best age range are males between 25-34, same range for women**
+![audience](https://user-images.githubusercontent.com/58957744/122265408-4ef89280-ce9e-11eb-9e97-9897637a1265.png)
 
 
 # Table Of Contents
