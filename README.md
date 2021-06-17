@@ -1,3 +1,5 @@
+![ddddddd](https://user-images.githubusercontent.com/58957744/122457740-96e9e900-cf74-11eb-8619-e66fda327463.png)
+
 # [Audience and Affiliations with Tableau](#Table-Of-Contents)
 I made an analysis for the audience and affiliations of the Partido Libertario Mx. Some of the insights are clearly explained in the conclusions page.
 **Watch the entire visualization online** [here](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
