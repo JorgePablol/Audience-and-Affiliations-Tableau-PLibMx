@@ -1,12 +1,12 @@
 ![ddddddd](https://user-images.githubusercontent.com/58957744/122457740-96e9e900-cf74-11eb-8619-e66fda327463.png)
 
-# [Audience and Affiliations with Tableau](#Table-Of-Contents)
+# Audience and Affiliations with Tableau
 I made an analysis for the audience and affiliations of the Partido Libertario Mx. Some of the insights are clearly explained in the conclusions page.
 **Watch the entire visualization online** [here](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
 
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
-# [Results](#Table-Of-Contents)
+# Results
 All of the results are explicitly written in the presentation. The orange color means that those are the conclusions.
 
 **TRANSLATION**
@@ -30,13 +30,12 @@ All of the results are explicitly written in the presentation. The orange color 
 
 # Table Of Contents
 
-* [Audience and Affiliations with Tableau](#Audience-and-Affiliations-with-Tableau)
-* [Results](#Results)
-* [Tools And Libraries](#Tools-And-Libraries)
-* [Data Wrangling](#Data-Wrangling)
+* Audience and Affiliations with Tableau
+* Results
+* Tools And Libraries
+* Data Wrangling
 
-
-# [Tools And Libraries](#Table-Of-Contents)
+# Tools And Libraries
   * Python 3.7
   * Pandas 1.1.5
   * Numpy 1.19.5
@@ -44,7 +43,7 @@ All of the results are explicitly written in the presentation. The orange color 
   * Excel
   * Tableau
 
-# [Data Wrangling](#Table-Of-Contents)
+# Data Wrangling
 The wrangling was done on the master file I use to clean their data, the title you should look for is Afiliaciones there I clean the data, to see the entire document and more in detail comments I added [click](https://github.com/JorgePablol/Audience-and-Affiliations-Tableau-PLibMx/blob/main/Libertarian_cleaning.ipynb) if the document don't open reload or download and open it with Google Colab. 
 
 ## Reading And Inspecting The Data
